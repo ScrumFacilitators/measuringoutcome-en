@@ -12,7 +12,7 @@ Keep in mind that the KVMs are not set in stone. These are measures suggested fr
 
 ## To make your life easier.
 
-To make life easier, we've included a manual on how to facilitate this exercise and a Cheat Sheet where all the Key Value Measures (KVMs) are explained so relax... Now you can focus totally on the exercise as a facilitator. Have fun!
+To make life easier, we've included a manual on how to facilitate this exercise and a Cheat Sheet where all the Key Value Measures (KVMs) are explained so relax... Now you can focus totally on the exercise as a facilitator. 
 
 ## Releases
 
