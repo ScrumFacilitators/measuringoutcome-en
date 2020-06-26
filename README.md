@@ -20,7 +20,7 @@ Use the **Release** to get the most stable and updated version of the Measuring 
 
 ## License
 
-Measuring Outcome by Scrum Facilitators is licensed under [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/). All the materials in this repository are subject to this license. 
+Measuring Outcome by Scrum Facilitators is licensed under [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/). All the materials in this repository are subject to this license. See the above link for a human readable summary and the included LICENSE.md file for the full license text.
 
 *There is a 0,000001% chance that you will come up with a better design. If this is the case, do feel free to change it. We would love it if you could mention us 👍 
 
