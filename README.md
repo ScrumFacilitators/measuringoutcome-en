@@ -1,4 +1,4 @@
-# Measuring Outcome
+# Measuring Outcome (English)
 
 **Hi Scrum Facilitators!**
 
