@@ -18,6 +18,14 @@ To make life easier, we've included a manual on how to facilitate this exercise 
 
 Use the **Release** to get the most stable and updated version of the Measuring Outcome Exercise. We'll promise to keep it updated ;-)
 
+## Other languages
+
+- [Uitkomsten Meten](https://github.com/ScrumFacilitators/measuringoutcome-nl/releases/latest) (nederlands) / Translation in dutch
+- [Medición del Resultado](https://github.com/ScrumFacilitators/measuringoutcome-es/releases/latest) (Español) / Translation in spanish
+- [衡量結果](https://github.com/ScrumFacilitators/measuringoutcome-cht/releases/latest) (中文) / Translation in Chinese
+
+
+
 ## License
 
 Measuring Outcome by Scrum Facilitators is licensed under [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/). All the materials in this repository are subject to this license. See the above link for a human readable summary and the included LICENSE.md file for the full license text.
