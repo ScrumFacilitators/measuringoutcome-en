@@ -8,21 +8,21 @@ This game is based on Evidence-Based Management (EBM). EBM is an empirical frame
 
 ## The KVMs are not set in stone
 
-Keep in mind that the KVMs are not set in stone. These are measures suggested from the EBM framework. During the game, you'll have opportunities to reflect on these KVMs, discuss and come up with new valuable KVMs yourself. 
+Keep in mind that the KVMs are not set in stone. These are measures suggested from the EBM framework. During the game, you’ll have opportunities to reflect on these KVMs, discuss and come up with new valuable KVMs yourself. 
 
 ## To make your life easier
 
-To make life easier, we've included a manual on how to facilitate this exercise and a Cheat Sheet where all the Key Value Measures (KVMs) are explained so relax... Now you can focus totally on the exercise as a facilitator. 
+To make life easier, we’ve included a manual on how to facilitate this exercise and a Cheat Sheet where all the Key Value Measures (KVMs) are explained so relax... Now you can focus totally on the exercise as a facilitator. 
 
 ## Releases
 
-Use the **Release** to get the most stable and updated version of the Measuring Outcome Exercise. We'll promise to keep it updated ;-)
+Use the **Release** to get the most stable and updated version of the Measuring Outcome Exercise. We’ll promise to keep it updated ;-)
 
 ## Other languages
 
 - [Uitkomsten Meten](https://github.com/ScrumFacilitators/measuringoutcome-nl/releases/latest) (nederlands) / Translation in dutch
 - [Medición del Resultado](https://github.com/ScrumFacilitators/measuringoutcome-es/releases/latest) (Español) / Translation in spanish
-
+- [衡量結果](https://github.com/ScrumFacilitators/measuringoutcome-cht/releases/latest) (中文) / Translation in Chinese
 
 ## License
 
