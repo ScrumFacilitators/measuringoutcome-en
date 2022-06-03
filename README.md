@@ -20,6 +20,11 @@ As of NOW we also have included a [Miro template](https://github.com/ScrumFacili
 
 Use the **Release** to get the most stable and updated version of the Measuring Outcome Exercise. We’ll promise to keep it updated ;-)
 
+## Printing advice
+We work closely with a professional printer who advises us on materials, development for print and owns the physical store for these products (find links to order physical products through the main Scrumfacilitators.nl website). If you want to self-print this exercise to facilitate it, the following information may be of use.
+Intended card size: A5. For the game, you could get away with A6 but the instructions and cheat sheet will get hard to read.
+If you want your version printed to match the store quality, ask for 400 gr mc wood-free paper and rounded corners of 6mm (rounded corners up to 10mm should still work with our designs).
+
 ## Other languages
 
 - [Uitkomsten Meten](https://github.com/ScrumFacilitators/measuringoutcome-nl/releases/latest) (nederlands) / Translation in dutch
@@ -35,6 +40,10 @@ Measuring Outcome by Scrum Facilitators is licensed under [CC BY-NC-SA](https://
 *There is a 0,000001% chance that you will come up with a better design. If this is the case, do feel free to change it. We would love it if you could mention us 👍
 
 ***
+
+##Questions/ideas/etc
+
+If you have facilitation ideas, questions on the material or anything else related to this game, feature requests... Please let us know! Log an issue on Github, or contact us through one of the many media we're active on. 
 
 Have fun!
 Greetings from the Scrum Facilitators crew
